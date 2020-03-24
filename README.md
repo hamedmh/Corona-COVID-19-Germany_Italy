@@ -1,5 +1,5 @@
 # CoronaVirus COVID-19 daily registered cases in each provinces/towns in Germany and Italy
-This repository provides updated datasets in Python files (.npz binary files in NumPy format) containing historical case numbers of the spread of COVID-19 in each province/town in Germany and Italy.
+This repository provides updated datasets in Python files (.npz binary files in NumPy format) containing historical case numbers of the spread of COVID-19 in each province/town in Germany and Italy. Each .npz file contains the data of only one province/town.
 
 # Example on how to read the data for a specific province
 import numpy as np
